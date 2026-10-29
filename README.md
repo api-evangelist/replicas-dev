@@ -64,5 +64,112 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Replicas is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by y-combinator) and added to the network as a stub for full-pipeline profiling.
-- https://replicas.dev
+Replicas is a cloud coding‑agent platform for engineering teams, enabling AI‑driven code generation, testing, and deployment within isolated virtual machines. Backed by Y Combinator and raised a $4 M seed round, Replicas integrates with Slack, Linear, GitHub, GitHub, GitLab and offers a marketplace of AI agents such as Claude Code, Codex, Cursor, OpenCode, Pi and Muse Code. The service provides a free tier with $100 usage, no credit card required, and targets modern software development workflows.
+
+**Areas:** Company · AI · Cloud · Platform · Development
+
+## Replicas on APIs.io
+
+Everything profiled for Replicas is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/replicas-dev/](https://apis.io/providers/replicas-dev/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Replicas API](https://apis.io/apis/replicas-dev/replicas-api/) — Create and control workspaces, and manage the environments, automations, and learnings they run with.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Replicas Dev Webhooks](https://apis.io/asyncapis/replicas-dev/replicas-dev-webhooks/)
+
+#### Security (4)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Replicas Dev Authentication](https://apis.io/security/replicas-dev/replicas-dev-authentication/)
+- [Replicas Dev Domain Security](https://apis.io/security/replicas-dev/replicas-dev-domain-security/)
+- [Replicas Dev Trust Center](https://apis.io/security/replicas-dev/replicas-dev-trust-center/)
+- [Replicas Dev Vulnerability Disclosure](https://apis.io/security/replicas-dev/replicas-dev-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Replicas Dev Plans Pricing](https://apis.io/plans/replicas-dev/replicas-dev-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://replicas.dev)
+- [Documentation](https://docs.replicas.dev)
+- [Getting started](https://docs.replicas.dev/quickstart)
+- [API reference](https://docs.replicas.dev/api-reference)
+- [Pricing](https://replicas.dev/pricing)
+- [Support](https://replicas.dev/support)
+- [Changelog](https://docs.replicas.dev/changelog)
+- [Blog](https://replicas.dev/blog)
+- [Security](https://replicas.dev/security)
+- [Compliance](https://replicas.dev/security)
+- [Terms of service](https://replicas.dev/terms)
+- [Privacy policy](https://replicas.dev/privacy)
+- [Status](https://status.replicas.dev/)
+
+## API Evangelist rating
+
+**Kin Score 53.4** — developing · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 64.3 |
+| Contract quality | 39.0 |
+| Contract governance | 16.4 |
+| Operational transparency | 50.0 |
+| Developer ergonomics | 54.8 |
+| Access clarity | 75.8 |
+
+**Agent readiness 38.6** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 32.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/replicas-dev/](https://apis.io/providers/replicas-dev/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Replicas: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/replicas-dev/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
